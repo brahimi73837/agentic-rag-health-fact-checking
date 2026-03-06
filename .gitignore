@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+.venv-flashrag/
+data/pubmed_index/
+data/community_notes/
+checkpoints/
+.deepeval/
+.DS_Store
+*.log
+results/experiments/*/corpus_20k/
+results/traces/
+results/_archive/
