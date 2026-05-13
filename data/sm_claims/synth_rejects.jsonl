@@ -1,0 +1,105 @@
+{"doc_id": "pubmedqa_20301115", "label": "NEI", "claim": "Freckling frequency modifies MC1R variant association with melanoma.", "validator_label": "REFUTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_19213774", "label": "NEI", "claim": "The use of bronchoalveolar lavage fluid for diagnosing sarcoidosis did not change the likelihood of a positive TBB.", "validator_label": "REFUTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_9839579", "label": "NEI", "claim": "The study found no correlation between the number of tumors at presentation and patient age.", "reason": "quality"}
+{"doc_id": "pubmedqa_20873285", "label": "NEI", "claim": "The study did not examine the period before 1990.", "reason": "quality"}
+{"doc_id": "scifact_21414718", "label": "NEI", "claim": "The effect of TFF2 on cell migration is similar to that of TFF3.", "validator_label": "REFUTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_25046069", "label": "SUPPORTED", "claim": "97.8% of patients responded effectively to conservative approaches.", "reason": "quality"}
+{"doc_id": "pubmedqa_25046069", "label": "REFUTED", "claim": "Only 2.2% of patients responded effectively to conservative approaches.", "reason": "quality"}
+{"doc_id": "pubmedqa_25046069", "label": "NEI", "claim": "The majority of patients were above 50 years old.", "validator_label": "REFUTED", "reason": "validator_disagree"}
+{"doc_id": "scifact_19307912", "label": "SUPPORTED", "claim": "Suspected familial obesity was observed in 2.4 percent of random recall group whites.", "reason": "quality"}
+{"doc_id": "scifact_19307912", "label": "NEI", "claim": "The prevalence of suspected familial leanness among black probands was higher than among white probands.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_25529935", "label": "NEI", "claim": "The impact of preexisting heart dysfunction on cognitive functioning is not significant.", "validator_label": "REFUTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_14734371", "label": "NEI", "claim": "The study covered hospital admissions for overdose in people aged 10 years and older.", "reason": "quality"}
+{"doc_id": "pubmedqa_17904989", "label": "NEI", "claim": "The incidence of spontaneous preterm birth was higher in the standard group.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_26968056", "label": "NEI", "claim": "Plunging ranulas were observed to occur at the same rate in children and adults.", "validator_label": "REFUTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_11398701", "label": "NEI", "claim": "The transportation mode for patients deemed appropriate was not specified.", "validator_label": "REFUTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_22656436", "label": "SUPPORTED", "claim": "25.3% of patients had probable current depressive disorder.", "reason": "quality"}
+{"doc_id": "pubmedqa_22656436", "label": "REFUTED", "claim": "Less than 25.3% of patients had probable current depressive disorder.", "reason": "quality"}
+{"doc_id": "pubmedqa_22656436", "label": "NEI", "claim": "The treatment for depression was adequate in more than 46% of cases.", "validator_label": "REFUTED", "reason": "validator_disagree"}
+{"doc_id": "scifact_22534357", "label": "NEI", "claim": "The study did not find significant differences in side effects between letrozole and gonadotropin treatments.", "reason": "quality"}
+{"doc_id": "pubmedqa_23300262", "label": "NEI", "claim": "The study includes more male participants than female participants.", "reason": "quality"}
+{"doc_id": "scifact_13900610", "label": "NEI", "claim": "The study found that self-harm was associated with a life sentence or being unsentenced, but did not determine the exact percentage of prisoners with such sentences who engaged in self-harm.", "reason": "quality"}
+{"doc_id": "pubmedqa_9172847", "label": "NEI", "claim": "The visual analog scale was used to measure family member anxiety levels.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_10191841", "label": "NEI", "claim": "The methacholine challenge method is effective in diagnosing bronchial hyperresponsiveness.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_22126950", "label": "NEI", "claim": "The frequency of presentations was unrelated to the time of year except for summer.", "validator_label": "REFUTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_27392040", "label": "NEI", "claim": "The majority of households had at least one toilet.", "validator_label": "REFUTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_12717672", "label": "NEI", "claim": "The abstract mentions psychomotor retardation but does not specify its severity in all nine cases.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_27666616", "label": "SUPPORTED", "claim": "CEUS increased PCa detection rate to 24.5% compared to 10.6% with BMUS.", "reason": "quality"}
+{"doc_id": "pubmedqa_27666616", "label": "NEI", "claim": "The cost of CEUS-targeted biopsy was not reported.", "validator_label": "REFUTED", "reason": "validator_disagree"}
+{"doc_id": "scifact_34074902", "label": "REFUTED", "claim": "Retrovirus infection poses no threat to neotropic small felid populations.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_9437650", "label": "NEI", "claim": "The study used radioactive long-chain fatty acid for assessing lipid absorption.", "reason": "quality"}
+{"doc_id": "scifact_5519177", "label": "NEI", "claim": "Enhancer RNAs play a role in cellular processes.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_26130335", "label": "NEI", "claim": "Opioid substitution therapies and prescription drugs may be protective against non-fatal overdose in individuals without severe psychological distress.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_11172143", "label": "SUPPORTED", "claim": "The average duration of office visits increased from 16.3 minutes to 20.4 minutes between 1989 and 1998.", "reason": "quality"}
+{"doc_id": "pubmedqa_11172143", "label": "NEI", "claim": "There was no significant change in the rate of visits per 100 population from 1989 to 1998.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_23176378", "label": "NEI", "claim": "The duration of CHIKV viremia in asymptomatic patients is less than two weeks.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_22860239", "label": "NEI", "claim": "The majority of patients diagnosed with Borderline Personality Disorder also had another PD.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_19598211", "label": "REFUTED", "claim": "Increasing annual temperature is not significantly linked to changes in sinusitis prevalence.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_19598211", "label": "NEI", "claim": "The study did not examine the relationship between temperature and otolaryngologic diseases beyond sinusitis.", "reason": "quality"}
+{"doc_id": "pubmedqa_17414339", "label": "SUPPORTED", "claim": "Chest CT usage increased from 2.7% to 28.7% for blunt injuries over seven years.", "reason": "quality"}
+{"doc_id": "pubmedqa_17414339", "label": "REFUTED", "claim": "Chest CT usage decreased from 28.7% to 2.7% for blunt injuries over seven years.", "reason": "quality"}
+{"doc_id": "pubmedqa_17414339", "label": "NEI", "claim": "The study found that all patients with normal CXR findings had no significant lung damage.", "reason": "quality"}
+{"doc_id": "scifact_169264", "label": "NEI", "claim": "The adsorption of proteins on SiO2 nanoparticles affects their distribution in the body.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "scifact_8037453", "label": "REFUTED", "claim": "Pamidronate increases the risk of skeletal-related events in patients with bone metastases.", "validator_label": "NEI", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_21159191", "label": "REFUTED", "claim": "The sensitivity for disability pension was less than 50%.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_21159191", "label": "NEI", "claim": "The study included twins born between 1933 and 1958.", "reason": "quality"}
+{"doc_id": "pubmedqa_11873671", "label": "SUPPORTED", "claim": "H. Pylori infection leads to glandular loss in children.", "reason": "quality"}
+{"doc_id": "pubmedqa_11873671", "label": "REFUTED", "claim": "H. Pylori infection does not lead to glandular loss in children.", "reason": "quality"}
+{"doc_id": "pubmedqa_11873671", "label": "NEI", "claim": "The presence of H. Pylori affects the density of inflammatory cells in the lamina propria.", "reason": "quality"}
+{"doc_id": "pubmedqa_18045281", "label": "REFUTED", "claim": "Laboratory tests were not necessary for any of the patients or controls.", "reason": "quality"}
+{"doc_id": "pubmedqa_18045281", "label": "NEI", "claim": "The study duration was exactly two years.", "reason": "quality"}
+{"doc_id": "pubmedqa_15084546", "label": "NEI", "claim": "The study included patients with preserved left ventricular systolic function.", "reason": "quality"}
+{"doc_id": "pubmedqa_9663421", "label": "NEI", "claim": "The median survival from the start of continuous infusion of 5-FU was 11.6 months, but the abstract does not mention the survival rate for patients who discontinued treatment due to side effects.", "reason": "quality"}
+{"doc_id": "pubmedqa_24126749", "label": "REFUTED", "claim": "Folate supplements were taken by less than 50% of women during antenatal period.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_24126749", "label": "NEI", "claim": "The majority of pregnancies had their first contact with a general practitioner.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_9951937", "label": "NEI", "claim": "Dimethylnitrosamine induces liver cirrhosis in rats.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_25673583", "label": "NEI", "claim": "The smoking rate in Warthin's tumor patients is significantly higher compared to those with branchial cysts.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_11059884", "label": "NEI", "claim": "The effectiveness of prolonged external cardiac massage as a standalone treatment for doxepin-induced cardiac arrest is unclear.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_11563888", "label": "NEI", "claim": "The study did not assess the long-term effects of ECA shunting on patient recovery.", "reason": "quality"}
+{"doc_id": "pubmedqa_20526203", "label": "REFUTED", "claim": "The QUID score was not statistically different between EE and NERD patients.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_20526203", "label": "NEI", "claim": "The ANNs-assisted algorithm had greater specificity than linear discriminant analysis.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_17823877", "label": "NEI", "claim": "The cost-effectiveness of genetic field work for recruiting diabetic patients was not evaluated in this study.", "reason": "quality"}
+{"doc_id": "pubmedqa_23445806", "label": "SUPPORTED", "claim": "Advanced age increases postoperative AF risk by 5.2% per year.", "reason": "quality"}
+{"doc_id": "pubmedqa_23445806", "label": "REFUTED", "claim": "Advanced age decreases postoperative AF risk by 5.2% per year.", "reason": "quality"}
+{"doc_id": "pubmedqa_23445806", "label": "NEI", "claim": "The additive EuroSCORE score is not associated with preoperative AF occurrence.", "validator_label": "REFUTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_17686207", "label": "NEI", "claim": "The statistical methods used were based on the Rasch measurement model.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_14752498", "label": "NEI", "claim": "Smoking history and hypercholesterolemia are risk factors for developing coronary artery disease.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_14747597", "label": "NEI", "claim": "The surveillance system detected a national increase in calls about fever.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_18262150", "label": "SUPPORTED", "claim": "Hormonal treatment failure correlated with endometriosis presence.", "validator_label": "REFUTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_18262150", "label": "REFUTED", "claim": "Hormonal treatment failure did not correlate with endometriosis presence.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_18262150", "label": "NEI", "claim": "The effectiveness of hormonal treatments for chronic pelvic pain was assessed.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_15943984", "label": "SUPPORTED", "claim": "Hysterectomy successfully treated 85.2% of women with recurrent cytological abnormalities.", "reason": "quality"}
+{"doc_id": "pubmedqa_15943984", "label": "REFUTED", "claim": "Hysterectomy failed to treat more than 14.8% of women with recurrent cytological abnormalities.", "reason": "quality"}
+{"doc_id": "pubmedqa_15943984", "label": "NEI", "claim": "The vaginal route was used in at least 10 hysterectomies during the study period.", "reason": "quality"}
+{"doc_id": "pubmedqa_18569955", "label": "NEI", "claim": "The study used second harmonic imaging for both color Doppler and contrast echocardiography.", "reason": "quality"}
+{"doc_id": "scifact_18199839", "label": "SUPPORTED", "claim": "Inheriting one copy of Asp358Ala reduces risk of coronary heart disease by 3.4%.", "reason": "quality"}
+{"doc_id": "scifact_18199839", "label": "REFUTED", "claim": "Inheriting one copy of Asp358Ala increases risk of coronary heart disease by 3.4%.", "reason": "quality"}
+{"doc_id": "scifact_18199839", "label": "NEI", "claim": "IL6R-related pathways are associated with changes in C-reactive protein levels.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_17482927", "label": "SUPPORTED", "claim": "Placing NGTs during bowel surgery did not significantly reduce hospital stay.", "validator_label": "REFUTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_23090861", "label": "NEI", "claim": "The study did not investigate the effect of OSA on other cardiac enzymes besides troponin-T.", "reason": "quality"}
+{"doc_id": "pubmedqa_19841112", "label": "NEI", "claim": "Pregnancy complications such as preeclampsia are associated with lower odds ratios for autistic disorders in preterm infants.", "validator_label": "REFUTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_27485309", "label": "NEI", "claim": "The smoking history of the patients was related to their condition.", "reason": "quality"}
+{"doc_id": "pubmedqa_23697318", "label": "NEI", "claim": "The quality of life improvement was similar between those under 70 and those 70 or older after cochlear implantation.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_9279311", "label": "NEI", "claim": "The blood pressure of individuals with AAAs was different from controls.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_16820628", "label": "SUPPORTED", "claim": "The Ross procedure resulted in a late mortality rate of 1.7%.", "reason": "quality"}
+{"doc_id": "pubmedqa_16820628", "label": "REFUTED", "claim": "The Ross procedure had a late mortality rate higher than 1.7%.", "reason": "quality"}
+{"doc_id": "pubmedqa_16820628", "label": "NEI", "claim": "The majority of patients with bicuspid valve morphology were male.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_26848804", "label": "NEI", "claim": "The disease course of sclerosing mesenteritis is usually benign, but the abstract does not provide information on whether it can be malignant.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_25099080", "label": "NEI", "claim": "The weight of patients ranged between 12.5 kg and 95 kg.", "reason": "quality"}
+{"doc_id": "pubmedqa_19925541", "label": "NEI", "claim": "The mechanism of SVT is not significantly different between males and females at younger ages.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_23979274", "label": "NEI", "claim": "The study found that the degree of hyperglycemia correlated with increasing American Society of Anesthesiologists class.", "reason": "quality"}
+{"doc_id": "pubmedqa_18926646", "label": "NEI", "claim": "Chewing tobacco has no significant association with cannabis abuse or dependence.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_10723974", "label": "NEI", "claim": "The effect of aspirin on patients under 50 years old was not examined.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_9772856", "label": "NEI", "claim": "Educational level has no impact on the risk of having a small-for-gestational-age infant.", "validator_label": "REFUTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_12853520", "label": "NEI", "claim": "The bias for glucose level difference between right and left pleural effusions is within 23 mg/dL.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_11696508", "label": "NEI", "claim": "The effectiveness of paramedic-administered aspirin in preventing heart attacks was not evaluated.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "scifact_4999633", "label": "NEI", "claim": "The effect of 17\u03b1-estradiol on cAMP production is similar to that of 17\u03b2-estradiol.", "validator_label": "REFUTED", "reason": "validator_disagree"}
+{"doc_id": "scifact_10300000", "label": "REFUTED", "claim": "Afro-Caribbean patients made up more than 10% of respondents.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "scifact_10300000", "label": "NEI", "claim": "The majority of patients preferred using postcoital contraception over an unplanned pregnancy.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "scifact_40790033", "label": "NEI", "claim": "The incidence of angio-oedema was higher in patients taking benazepril plus amlodipine without pre-existing chronic kidney disease.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_17059717", "label": "NEI", "claim": "The clinics with no information sheet had four verbal complaints.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_21167573", "label": "NEI", "claim": "Allergic reactions were observed in at least half of the participants.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_18589360", "label": "REFUTED", "claim": "Less than half of appendectomies were done by trauma surgeons in the Trauma period.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "pubmedqa_18589360", "label": "NEI", "claim": "The study did not mention changes in patient demographics between periods.", "reason": "quality"}
+{"doc_id": "scifact_2316374", "label": "NEI", "claim": "Steady laminar flow affects the association between HDAC5 and KLF2.", "validator_label": "SUPPORTED", "reason": "validator_disagree"}
+{"doc_id": "scifact_11201004", "label": "NEI", "claim": "The study did not examine the effects of added sugar on lipid profiles in children.", "reason": "quality"}

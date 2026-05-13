@@ -1,0 +1,101 @@
+claim_id,gold_label,coverage_top_score,cn_classification,cn_note_id,claim
+cn_000,REFUTED,13.69,MISINFORMED_OR_POTENTIALLY_MISLEADING,1433243655230349312,Ivermectin is solely a drug formulated for cows and horses.
+cn_001,SUPPORTED,3.233,MISINFORMED_OR_POTENTIALLY_MISLEADING,1972905736456859956,There is no indication or evidence that Erika Kirk is pregnant.
+cn_002,REFUTED,14.49,MISINFORMED_OR_POTENTIALLY_MISLEADING,1800688549253263368,Public opinion polls determine the effectiveness of COVID-19 vaccines.
+cn_003,SUPPORTED,4.27,MISINFORMED_OR_POTENTIALLY_MISLEADING,1952062242049961992,Autofagia não é um processo confirmado pelo estudo em humanos que faz o corpo 'devorar' o câncer.
+cn_004,SUPPORTED,3.759,MISINFORMED_OR_POTENTIALLY_MISLEADING,1564302970749353984,Heart attacks can occur in children for various reasons.
+cn_005,NEI,-2.709,MISINFORMED_OR_POTENTIALLY_MISLEADING,1947305182699630846,La Svizzera ha vietato la mammografia e questo porta a falsi positivi al 60% e aumenta i rischi di cancro.
+cn_006,REFUTED,12.842,MISINFORMED_OR_POTENTIALLY_MISLEADING,1768170171024519366,The polio vaccine causes polio in children.
+cn_007,SUPPORTED,12.93,MISINFORMED_OR_POTENTIALLY_MISLEADING,1938139632119779555,G-Dragon is working with the government to combat drug usage amongst youths and has made donations towards the cause.
+cn_008,SUPPORTED,13.178,MISINFORMED_OR_POTENTIALLY_MISLEADING,1729826610491105349,"Some rats and mice can carry harmful diseases such as SPH, leptospirosis, lymphocytic choriomeningitis, plague, and typhus."
+cn_009,SUPPORTED,7.502,MISINFORMED_OR_POTENTIALLY_MISLEADING,1754781124864229692,The development of cancer due to emotional shock is not supported by scientific consensus.
+cn_010,SUPPORTED,14.001,MISINFORMED_OR_POTENTIALLY_MISLEADING,1544842158410194945,Half of COVID deaths in the US occurred among individuals outside traditional working age.
+cn_011,REFUTED,5.169,MISINFORMED_OR_POTENTIALLY_MISLEADING,1748197169402904621,Joe Biden's son's brain tumor was caused by exposure to burn pits during his deployment in Iraq.
+cn_012,REFUTED,13.658,MISINFORMED_OR_POTENTIALLY_MISLEADING,1833849644431872209,An increased incidence of significant adverse effects or a higher risk of rapid cancer progression has been reported after receiving the COVID-19 vaccine.
+cn_013,REFUTED,4.28,MISINFORMED_OR_POTENTIALLY_MISLEADING,1661806356758929408,The cause of injury was due to a single factor only.
+cn_014,SUPPORTED,13.775,MISINFORMED_OR_POTENTIALLY_MISLEADING,1823945372231688252,The chimpanzee adenovirus vector is wholly different from Monkeypox and there is no possibility of them being linked.
+cn_015,NEI,-4.052,MISINFORMED_OR_POTENTIALLY_MISLEADING,1769515817589150128,Prof. Bhakdi did not present data or images in the video conference regarding experiments involving mRNA injection.
+cn_016,SUPPORTED,8.391,MISINFORMED_OR_POTENTIALLY_MISLEADING,1786109347962974684,"VAERS is a passive surveillance system jointly managed by the CDC and the FDA, not an organization that determines what injuries can be paid out by VICP."
+cn_017,REFUTED,11.45,MISINFORMED_OR_POTENTIALLY_MISLEADING,1678805200667017219,Certain types of honeybee venom can effectively eradicate cancer in humans.
+cn_018,REFUTED,15.407,MISINFORMED_OR_POTENTIALLY_MISLEADING,1723233025788690794,Stroke in children is a new phenomenon since the onset of COVID-19.
+cn_019,REFUTED,13.565,MISINFORMED_OR_POTENTIALLY_MISLEADING,1681073409680347137,Callie Driskill's death was related to a COVID-19 vaccine.
+cn_020,SUPPORTED,1.114,MISINFORMED_OR_POTENTIALLY_MISLEADING,1963929744983945474,"Karpuzda yeterli miktarda L-sitrülin bulunmadığından, karpuzu ereksiyona veya kalp damar hastalara faydalı bir parametre olarak önerilemez."
+cn_021,SUPPORTED,2.661,MISINFORMED_OR_POTENTIALLY_MISLEADING,2000738316476420565,"The fur ruff on parka hoods serves to disrupt wind, create a boundary layer of warm air around the face, reduce heat loss, and prevent frost buildup from breath."
+cn_022,REFUTED,15.309,MISINFORMED_OR_POTENTIALLY_MISLEADING,1591607933686587393,Aluminum in vaccines is a new and untested ingredient that poses significant health risks.
+cn_023,REFUTED,5.544,MISINFORMED_OR_POTENTIALLY_MISLEADING,1683773541131354114,86% of children experienced serious adverse reactions during the vaccine trial.
+cn_024,REFUTED,10.836,MISINFORMED_OR_POTENTIALLY_MISLEADING,1912904668465996158,Fasting makes the body eat up tumors.
+cn_025,SUPPORTED,1.783,MISINFORMED_OR_POTENTIALLY_MISLEADING,1903735659530953181,Multiple chest x-rays per day could increase the likelihood of radiation-induced tumors because x-rays are high-energy electromagnetic radiation.
+cn_026,SUPPORTED,10.86,MISINFORMED_OR_POTENTIALLY_MISLEADING,1955700241136779399,Rabies is a global threat with a fatality rate of almost 100% in humans and animals alike.
+cn_027,SUPPORTED,10.347,MISINFORMED_OR_POTENTIALLY_MISLEADING,1872418851540848685,"The risk of stroke for those aged 65 and older is not significantly high, except when the COVID vaccine was administered simultaneously with a strongly dosed flu vaccine."
+cn_028,SUPPORTED,15.386,MISINFORMED_OR_POTENTIALLY_MISLEADING,1661973323373477889,The article describes the discussed variant as a new wave of the Omicron (XBB) variant and not a new emerging variant.
+cn_029,SUPPORTED,2.658,MISINFORMED_OR_POTENTIALLY_MISLEADING,1824598488786801141,Faustão's hospitalization is part of his routine as a transplant patient.
+cn_030,SUPPORTED,14.4,MISINFORMED_OR_POTENTIALLY_MISLEADING,1805126510116065437,Bourla got vaccinated as soon as he became eligible after the FDA issued the first emergency use authorization for the Pfizer-BioNTech COVID-19 vaccine.
+cn_031,SUPPORTED,6.515,MISINFORMED_OR_POTENTIALLY_MISLEADING,1785175222879944743,The side effect mentioned has been known since March 2021 and is not a newly discovered phenomenon.
+cn_032,REFUTED,2.91,MISINFORMED_OR_POTENTIALLY_MISLEADING,1823560279575105885,"In a high-risk surgery, it is not necessary to use hemoderivatives."
+cn_033,SUPPORTED,9.695,MISINFORMED_OR_POTENTIALLY_MISLEADING,1757543569295024319,Migration data refers to fiscal year 2024 starting in October 2023.
+cn_034,SUPPORTED,13.055,MISINFORMED_OR_POTENTIALLY_MISLEADING,1705132687176958455,Most studies have extensively shown the non-hazardous nature of glyphosate.
+cn_035,REFUTED,15.777,MISINFORMED_OR_POTENTIALLY_MISLEADING,1418260564242010112,Vaccines are 100% effective in preventing both COVID-19 infection and severe illness.
+cn_036,SUPPORTED,9.673,MISINFORMED_OR_POTENTIALLY_MISLEADING,1724156619552944458,CVS will not remove all over-the-counter drugs containing oral phenylephrine from its shelves; some products like Sudafed with pseudoephedrine and Dayquil remain available.
+cn_037,SUPPORTED,5.189,MISINFORMED_OR_POTENTIALLY_MISLEADING,1725827491154010399,"Placing objects, including metal ones, in the ear can lead to serious damage, infections and potentially hearing loss."
+cn_038,NEI,-0.507,MISINFORMED_OR_POTENTIALLY_MISLEADING,1861185221602726395,"The website does not provide evidence for 45,000 cured patients or tested results regarding cancer types."
+cn_039,SUPPORTED,11.567,MISINFORMED_OR_POTENTIALLY_MISLEADING,1983410986049843222,Apple Watch cannot measure blood pressure.
+cn_040,REFUTED,5.037,MISINFORMED_OR_POTENTIALLY_MISLEADING,1615075101996638209,Mr. Odjick's illness was sudden.
+cn_041,NEI,-5.037,MISINFORMED_OR_POTENTIALLY_MISLEADING,1997298055960248648,"DFPP/INUSpheresis removes small, non-protein-bound molecules such as benzene, xylene, and dichloromethane."
+cn_042,NEI,-2.249,MISINFORMED_OR_POTENTIALLY_MISLEADING,1760026152712785927,"Small increases in neurological, blood, and heart-related issues are significant."
+cn_043,REFUTED,14.891,MISINFORMED_OR_POTENTIALLY_MISLEADING,1686678020197617664,The lethal dose of cocaine is 96mg per kilogram of body weight and this dose applies to everyone.
+cn_044,SUPPORTED,13.357,MISINFORMED_OR_POTENTIALLY_MISLEADING,2045156216708747479,"Only about 50% of Eastern Asian people carry epicanthal folds, which is not a universal feature among all Asian individuals."
+cn_045,REFUTED,15.272,MISINFORMED_OR_POTENTIALLY_MISLEADING,1763942071767871680,Vitamin supplements significantly reduce the risk of all types of cancer.
+cn_046,NEI,-1.861,MISINFORMED_OR_POTENTIALLY_MISLEADING,1891224471480025191,The two men were not suffering from Ebola and had not been exposed to it.
+cn_047,SUPPORTED,13.184,MISINFORMED_OR_POTENTIALLY_MISLEADING,1929263192506605914,HPV vaccine can prevent more than 90% of cancers associated with HPV.
+cn_048,SUPPORTED,8.896,MISINFORMED_OR_POTENTIALLY_MISLEADING,1651948029086187521,Mortsafes were installed in graveyards to prevent grave robbing during the early 1800s.
+cn_049,SUPPORTED,2.763,MISINFORMED_OR_POTENTIALLY_MISLEADING,1892562109210251746,Kablosuz kulaklıklar mikrodalgalarla karşılaştırıldığında daha düşük seviyede radyasyon yayar.
+cn_050,REFUTED,12.732,MISINFORMED_OR_POTENTIALLY_MISLEADING,1761477250115908039,The spider is dying due to natural aging processes.
+cn_051,SUPPORTED,15.536,MISINFORMED_OR_POTENTIALLY_MISLEADING,1637893129620561935,"The video is from China and dates back to January 2020, before any COVID-19 vaccines were available."
+cn_052,SUPPORTED,12.225,MISINFORMED_OR_POTENTIALLY_MISLEADING,1730107027354005559,Sudden fatality from a heart condition has not been the #1 medical cause of death in college athletes prior to 2021.
+cn_053,NEI,-1.202,MISINFORMED_OR_POTENTIALLY_MISLEADING,1815466681944146025,Shiela Jackson announced she had advanced pancreatic cancer.
+cn_054,NEI,-1.101,MISINFORMED_OR_POTENTIALLY_MISLEADING,1922793130719576071,食品添加物が食事を通して人の健康に影響を与ません.
+cn_055,SUPPORTED,14.68,MISINFORMED_OR_POTENTIALLY_MISLEADING,2017223758545838491,The spread of Nipah virus is under control in India with no new cases detected for the past 14 days.
+cn_056,REFUTED,12.855,MISINFORMED_OR_POTENTIALLY_MISLEADING,1747704240577876089,Water freezes instantly when exposed to cold temperatures safe for skin.
+cn_057,REFUTED,14.973,MISINFORMED_OR_POTENTIALLY_MISLEADING,1869064141383643454,Sunscreen appears dark under a UV camera because it is effective in protecting the skin from harmful UV rays.
+cn_058,SUPPORTED,6.729,MISINFORMED_OR_POTENTIALLY_MISLEADING,1793418744368365644,1 person died due to cardiac arrest during the flight.
+cn_059,REFUTED,10.826,MISINFORMED_OR_POTENTIALLY_MISLEADING,1791557814684360853,Transplantes uterinos são realizados em pessoas trans.
+cn_060,SUPPORTED,9.879,MISINFORMED_OR_POTENTIALLY_MISLEADING,1760457737085784395,The TikTok video in question is not recent and appears to be from the context of COVID.
+cn_061,SUPPORTED,5.127,MISINFORMED_OR_POTENTIALLY_MISLEADING,1690721539799310706,The video has been edited to remove a phrase indicating that some people cannot afford the medicine.
+cn_062,SUPPORTED,4.088,MISINFORMED_OR_POTENTIALLY_MISLEADING,1841158932804354535,"Gaming in moderation provides benefits such as reduced stress, improved memory, impulse control, and problem-solving skills."
+cn_063,SUPPORTED,11.585,MISINFORMED_OR_POTENTIALLY_MISLEADING,1776042057360179619,The appearance of some specific virus mentioned in the post is not necessarily 100 times worse than COVID according to CDC data.
+cn_064,SUPPORTED,14.337,MISINFORMED_OR_POTENTIALLY_MISLEADING,1583561164755292162,Required vaccinations for children are determined by individual states and not mandated nationally.
+cn_065,NEI,-4.737,MISINFORMED_OR_POTENTIALLY_MISLEADING,1994916614412861855,TDAH implica não sentir saudade.
+cn_066,SUPPORTED,13.923,MISINFORMED_OR_POTENTIALLY_MISLEADING,1908728167805985059,"Before the introduction of measles vaccine in 1963, major epidemics occurred approximately every two to three years and caused an estimated 2.6 million deaths each year."
+cn_067,REFUTED,10.152,MISINFORMED_OR_POTENTIALLY_MISLEADING,1989741372669137216,Work stress is not real and is just a perception in the mind.
+cn_068,REFUTED,8.651,MISINFORMED_OR_POTENTIALLY_MISLEADING,1711057429885022363,An image depicts a 392-year-old shark.
+cn_069,SUPPORTED,5.64,MISINFORMED_OR_POTENTIALLY_MISLEADING,1877860156127744421,"Red Phosphorous is not the same as Phos-Chek, which contains a fertilizer for regrowth and prevention of mudslides in burned areas."
+cn_070,SUPPORTED,9.583,MISINFORMED_OR_POTENTIALLY_MISLEADING,1607953675129081857,Masks will not provide the same benefits as cleaner indoor air in terms of improving air quality in schools and offices.
+cn_071,SUPPORTED,2.099,MISINFORMED_OR_POTENTIALLY_MISLEADING,1686712407865929729,Linda went to the hospital for a follow-up exam related to previous chest pain.
+cn_072,REFUTED,8.813,MISINFORMED_OR_POTENTIALLY_MISLEADING,1792678860015935854,Ginger cinnamon tea can prevent pregnancy.
+cn_073,REFUTED,3.819,MISINFORMED_OR_POTENTIALLY_MISLEADING,2017770472046260488,Creatina pode substituir o sono e melhorar significativamente os déficits cognitivos causados pela privação de sono.
+cn_074,REFUTED,3.912,MISINFORMED_OR_POTENTIALLY_MISLEADING,1876588814271234210,Installing sanitary bins is a campaign to address the side effects of prostate cancer.
+cn_075,REFUTED,6.881,MISINFORMED_OR_POTENTIALLY_MISLEADING,1748289013897736240,Les vaccins anticovid ne rendent pas les personnes réfractaires à la maladie.
+cn_076,REFUTED,5.262,MISINFORMED_OR_POTENTIALLY_MISLEADING,1903516623048482919,The medication shown is insulina for treating hypothyroidism.
+cn_077,NEI,-0.452,MISINFORMED_OR_POTENTIALLY_MISLEADING,2009677897884143955,Grávidas devem evitar passar por detectores de metais nos aeroportos por razões de segurança.
+cn_078,REFUTED,15.819,MISINFORMED_OR_POTENTIALLY_MISLEADING,1697997524366155891,The number of people who read the article indicates the number of COVID-19 deaths.
+cn_079,REFUTED,7.902,MISINFORMED_OR_POTENTIALLY_MISLEADING,1803200607257301171,Cow is a commodity in most Hindu homes in India and Nepal.
+cn_080,NEI,-2.09,MISINFORMED_OR_POTENTIALLY_MISLEADING,1815498769971982540,Paxlovid is given in a single dose.
+cn_081,NEI,-0.972,MISINFORMED_OR_POTENTIALLY_MISLEADING,1884643494855074225,El cáncer de piel se cura con agua oxigenada.
+cn_082,REFUTED,13.308,MISINFORMED_OR_POTENTIALLY_MISLEADING,1977501390952902729,Tilapia causes cancer.
+cn_083,REFUTED,15.038,MISINFORMED_OR_POTENTIALLY_MISLEADING,1433170355921866752,A fetus at 7 weeks looks like arms with fingers and feet with toes.
+cn_084,REFUTED,11.4,MISINFORMED_OR_POTENTIALLY_MISLEADING,1851610124420370925,The vaccine administered via IV poses a high risk of cardiac inflammation in humans.
+cn_085,REFUTED,13.965,MISINFORMED_OR_POTENTIALLY_MISLEADING,1828140725957206091,Less than 70% of child deaths under five years old are due to vaccine-preventable diseases each year.
+cn_086,REFUTED,3.961,MISINFORMED_OR_POTENTIALLY_MISLEADING,1901706623732617669,Urinar após o sexo impede a gravidez.
+cn_087,REFUTED,6.731,MISINFORMED_OR_POTENTIALLY_MISLEADING,1955464807756251161,Shope papilloma virus is a new or unknown virus that infects humans.
+cn_088,REFUTED,12.709,MISINFORMED_OR_POTENTIALLY_MISLEADING,1913940872665702723,Snoring is the same as sleep apnea and CPAP is not an effective solution for it.
+cn_089,REFUTED,12.735,MISINFORMED_OR_POTENTIALLY_MISLEADING,2009000617881264625,Birds fart out the air they breathe.
+cn_090,REFUTED,9.408,MISINFORMED_OR_POTENTIALLY_MISLEADING,1624343899929182209,Sudden Cardiac Arrest is increasing among high school athletes and is related to vaccines.
+cn_091,REFUTED,14.982,MISINFORMED_OR_POTENTIALLY_MISLEADING,1803897225317126503,Vaccinating children is never necessary and poses no risk to public health.
+cn_092,REFUTED,9.631,MISINFORMED_OR_POTENTIALLY_MISLEADING,1430256091707883527,Thalidomide was approved for pregnant women.
+cn_093,REFUTED,4.424,MISINFORMED_OR_POTENTIALLY_MISLEADING,1973539777241616808,The height of the pregnancy bump predicts the baby's gender.
+cn_094,REFUTED,7.609,MISINFORMED_OR_POTENTIALLY_MISLEADING,1767218122119840221,The girl is dead.
+cn_095,REFUTED,15.247,MISINFORMED_OR_POTENTIALLY_MISLEADING,1586544871288066051,The Inflation Reduction Act capped insulin costs at $35 for all Americans who take insulin.
+cn_096,REFUTED,15.74,MISINFORMED_OR_POTENTIALLY_MISLEADING,1763685928755773694,Covid-19 is the same as the flu.
+cn_097,NEI,-2.535,MISINFORMED_OR_POTENTIALLY_MISLEADING,1848835835178725730,Chris Godwin's foot turned 180 degrees due to the dislocation.
+cn_098,NEI,-5.362,MISINFORMED_OR_POTENTIALLY_MISLEADING,1674395612970889218,"Wearing a bra with an underwire, the frequency and duration of bra wearing, and other aspects of bra use are associated with increased risks of developing IDC or ILC."
+cn_099,NEI,-0.405,MISINFORMED_OR_POTENTIALLY_MISLEADING,1989888382861021610,Alcohol wipes removed the iPhone 17 Pro Max's Cosmic Orange finish.

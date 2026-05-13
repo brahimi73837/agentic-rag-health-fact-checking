@@ -1,0 +1,11 @@
+claim_id,gold_label,coverage_top_score,cn_classification,cn_note_id,claim
+cn_000,SUPPORTED,13.178,MISINFORMED_OR_POTENTIALLY_MISLEADING,1729826610491105349,"Some rats and mice can carry harmful diseases such as SPH, leptospirosis, lymphocytic choriomeningitis, plague, and typhus."
+cn_001,REFUTED,10.747,MISINFORMED_OR_POTENTIALLY_MISLEADING,1846432259898822916,50% of Australians will have cancer by the age of 85.
+cn_002,NEI,-3.415,MISINFORMED_OR_POTENTIALLY_MISLEADING,1806243031244235164,Céline Dion does not have severe diabetes because the stiff-man syndrome primarily affects individuals with type 1 diabetes.
+cn_003,SUPPORTED,11.165,MISINFORMED_OR_POTENTIALLY_MISLEADING,1917602513500389717,Popcorn lung has been caused by substances other than nicotine vaping.
+cn_004,SUPPORTED,11.665,MISINFORMED_OR_POTENTIALLY_MISLEADING,1832157426793246804,Moderna has not admitted its mRNA COVID vaccine causes cancer.
+cn_005,SUPPORTED,7.274,MISINFORMED_OR_POTENTIALLY_MISLEADING,1825925602894827814,The varicella virus (or Keypox or monkeypox) has known information available from reliable sources.
+cn_006,REFUTED,12.826,MISINFORMED_OR_POTENTIALLY_MISLEADING,1420872937020723201,Governor DeSantis said vaccines will save your life.
+cn_007,REFUTED,5.715,MISINFORMED_OR_POTENTIALLY_MISLEADING,1894130525272760690,The average life expectancy after diagnosis of ALS is 2-5 years and few patients live longer than 20 years.
+cn_008,REFUTED,11.91,MISINFORMED_OR_POTENTIALLY_MISLEADING,1784348169804947776,Per capita caloric availability has decreased substantially.
+cn_009,REFUTED,12.04,MISINFORMED_OR_POTENTIALLY_MISLEADING,1842878531635749077,There have been verified cases of Popcorn lung caused by vaping.
