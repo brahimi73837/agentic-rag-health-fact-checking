@@ -1,0 +1,113 @@
+{
+  "systems": {
+    "agentic": {
+      "n_claims": 90,
+      "ragas_means": {
+        "faithfulness": 0.62,
+        "answer_relevancy": 0.6997,
+        "context_precision": 0.55
+      },
+      "deepeval_means": {
+        "faithfulness": 0.66,
+        "contextual_relevancy": 0.45,
+        "answer_relevancy": 0.7753
+      },
+      "openevals_means": {
+        "groundedness": 0.58,
+        "retrieval_relevance": 0.4
+      },
+      "pearson_correlations": {
+        "faithfulness__ragas_vs_deepeval": 1.0,
+        "faithfulness__ragas_vs_openevals": 0.9718,
+        "faithfulness__deepeval_vs_openevals": 0.9718,
+        "context__ragas_vs_deepeval": 0.9561,
+        "context__ragas_vs_openevals": 0.9561,
+        "context__deepeval_vs_openevals": 1.0,
+        "answer_relevancy__ragas_vs_deepeval": 0.9976
+      },
+      "mean_pearson_r": 0.9791
+    },
+    "agentic_multivers": {
+      "n_claims": 90,
+      "ragas_means": {
+        "faithfulness": 0.66,
+        "answer_relevancy": 0.72,
+        "context_precision": 0.58
+      },
+      "deepeval_means": {
+        "faithfulness": 0.7,
+        "contextual_relevancy": 0.48,
+        "answer_relevancy": 0.8
+      },
+      "openevals_means": {
+        "groundedness": 0.62,
+        "retrieval_relevance": 0.44
+      },
+      "pearson_correlations": {
+        "faithfulness__ragas_vs_deepeval": 1.0,
+        "faithfulness__ragas_vs_openevals": 0.1906,
+        "faithfulness__deepeval_vs_openevals": 0.1906,
+        "context__ragas_vs_deepeval": 0.8977,
+        "context__ragas_vs_openevals": 0.8977,
+        "context__deepeval_vs_openevals": 1.0,
+        "answer_relevancy__ragas_vs_deepeval": null
+      },
+      "mean_pearson_r": 0.6961
+    },
+    "standard_rag": {
+      "n_claims": 90,
+      "ragas_means": {
+        "faithfulness": 0.45,
+        "answer_relevancy": 0.55,
+        "context_precision": 0.42
+      },
+      "deepeval_means": {
+        "faithfulness": 0.5,
+        "contextual_relevancy": 0.32,
+        "answer_relevancy": 0.62
+      },
+      "openevals_means": {
+        "groundedness": 0.42,
+        "retrieval_relevance": 0.28
+      },
+      "pearson_correlations": {
+        "faithfulness__ragas_vs_deepeval": 1.0,
+        "faithfulness__ragas_vs_openevals": 0.7734,
+        "faithfulness__deepeval_vs_openevals": 0.7734,
+        "context__ragas_vs_deepeval": 0.8866,
+        "context__ragas_vs_openevals": 0.8866,
+        "context__deepeval_vs_openevals": 1.0,
+        "answer_relevancy__ragas_vs_deepeval": 1.0
+      },
+      "mean_pearson_r": 0.9029
+    },
+    "llm_only": {
+      "n_claims": 90,
+      "ragas_means": {
+        "faithfulness": 0.2,
+        "answer_relevancy": 0.4,
+        "context_precision": 0.05
+      },
+      "deepeval_means": {
+        "faithfulness": 0.25,
+        "contextual_relevancy": 0.05,
+        "answer_relevancy": 0.45
+      },
+      "openevals_means": {
+        "groundedness": 0.18,
+        "retrieval_relevance": 0.05
+      },
+      "pearson_correlations": {
+        "faithfulness__ragas_vs_deepeval": 1.0,
+        "faithfulness__ragas_vs_openevals": 1.0,
+        "faithfulness__deepeval_vs_openevals": 1.0,
+        "context__ragas_vs_deepeval": 1.0,
+        "context__ragas_vs_openevals": 1.0,
+        "context__deepeval_vs_openevals": 1.0,
+        "answer_relevancy__ragas_vs_deepeval": 1.0
+      },
+      "mean_pearson_r": 1.0
+    }
+  },
+  "note": "Three rule-based frameworks (Ragas-/DeepEval-/OpenEvals-style) score the RAG triad. Pearson r between framework pairs on the shared construct measures convergent validity (inter-rater reliability across frameworks)."
+}

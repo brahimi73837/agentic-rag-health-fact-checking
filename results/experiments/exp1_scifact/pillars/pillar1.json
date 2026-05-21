@@ -1,0 +1,185 @@
+{
+  "per_system": {
+    "agentic": {
+      "accuracy": 0.767,
+      "macro_f1": 0.7594,
+      "per_class": {
+        "SUPPORTED": {
+          "precision": 0.9,
+          "recall": 0.7714,
+          "f1": 0.8308
+        },
+        "REFUTED": {
+          "precision": 0.8333,
+          "recall": 0.7576,
+          "f1": 0.7937
+        },
+        "NEI": {
+          "precision": 0.5667,
+          "recall": 0.7727,
+          "f1": 0.6538
+        }
+      },
+      "confusion_matrix": [
+        [
+          27,
+          2,
+          6
+        ],
+        [
+          1,
+          25,
+          7
+        ],
+        [
+          2,
+          3,
+          17
+        ]
+      ],
+      "labels": [
+        "SUPPORTED",
+        "REFUTED",
+        "NEI"
+      ],
+      "cohens_kappa": 0.65,
+      "n": 90
+    },
+    "agentic_multivers": {
+      "accuracy": 0.811,
+      "macro_f1": 0.8106,
+      "per_class": {
+        "SUPPORTED": {
+          "precision": 0.8667,
+          "recall": 0.8125,
+          "f1": 0.8387
+        },
+        "REFUTED": {
+          "precision": 0.8,
+          "recall": 0.8,
+          "f1": 0.8
+        },
+        "NEI": {
+          "precision": 0.7667,
+          "recall": 0.8214,
+          "f1": 0.7931
+        }
+      },
+      "confusion_matrix": [
+        [
+          26,
+          3,
+          3
+        ],
+        [
+          2,
+          24,
+          4
+        ],
+        [
+          2,
+          3,
+          23
+        ]
+      ],
+      "labels": [
+        "SUPPORTED",
+        "REFUTED",
+        "NEI"
+      ],
+      "cohens_kappa": 0.7167,
+      "n": 90
+    },
+    "standard_rag": {
+      "accuracy": 0.533,
+      "macro_f1": 0.5244,
+      "per_class": {
+        "SUPPORTED": {
+          "precision": 0.7333,
+          "recall": 0.5641,
+          "f1": 0.6377
+        },
+        "REFUTED": {
+          "precision": 0.4667,
+          "recall": 0.5185,
+          "f1": 0.4912
+        },
+        "NEI": {
+          "precision": 0.4,
+          "recall": 0.5,
+          "f1": 0.4444
+        }
+      },
+      "confusion_matrix": [
+        [
+          22,
+          8,
+          9
+        ],
+        [
+          4,
+          14,
+          9
+        ],
+        [
+          4,
+          8,
+          12
+        ]
+      ],
+      "labels": [
+        "SUPPORTED",
+        "REFUTED",
+        "NEI"
+      ],
+      "cohens_kappa": 0.3,
+      "n": 90
+    },
+    "llm_only": {
+      "accuracy": 0.367,
+      "macro_f1": 0.3586,
+      "per_class": {
+        "SUPPORTED": {
+          "precision": 0.5333,
+          "recall": 0.4324,
+          "f1": 0.4776
+        },
+        "REFUTED": {
+          "precision": 0.2333,
+          "recall": 0.2917,
+          "f1": 0.2593
+        },
+        "NEI": {
+          "precision": 0.3333,
+          "recall": 0.3448,
+          "f1": 0.339
+        }
+      },
+      "confusion_matrix": [
+        [
+          16,
+          11,
+          10
+        ],
+        [
+          7,
+          7,
+          10
+        ],
+        [
+          7,
+          12,
+          10
+        ]
+      ],
+      "labels": [
+        "SUPPORTED",
+        "REFUTED",
+        "NEI"
+      ],
+      "cohens_kappa": 0.05,
+      "n": 90
+    }
+  },
+  "note": "Verdict-level metrics taken verbatim from metrics/summary.json (single source of truth for Chapter 4)."
+}
