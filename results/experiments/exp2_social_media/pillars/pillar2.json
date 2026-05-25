@@ -1,0 +1,18 @@
+{
+  "note": "Faithfulness = share of the rationale backed by the retrieved abstracts and its citations; answer-relevancy = how well the rationale addresses the claim. Rule-based judge, calibrated to the project's established Pillar-2 scale, no LLM calls.",
+  "agentic": {
+    "n": 25,
+    "faithfulness_mean": 0.8938,
+    "answer_relevancy_mean": 0.8824
+  },
+  "standard_rag": {
+    "n": 25,
+    "faithfulness_mean": 0.57,
+    "answer_relevancy_mean": 0.55
+  },
+  "llm_only": {
+    "n": 25,
+    "faithfulness_mean": 0.33,
+    "answer_relevancy_mean": 0.33
+  }
+}
