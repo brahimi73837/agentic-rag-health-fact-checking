@@ -1,0 +1,126 @@
+{
+  "systems": {
+    "agentic": {
+      "n": 180,
+      "majority_yes_rate": 0.9778,
+      "majority_no_rate": 0.0,
+      "majority_abstain_rate": 0.0222,
+      "per_judge_yes_rate": {
+        "coverage": 0.9611,
+        "citation": 0.9889,
+        "strength": 0.9333
+      },
+      "pairwise_pearson_r": {
+        "coverage__citation": 0.6717,
+        "coverage__strength": 0.6629,
+        "citation__strength": 0.9394
+      },
+      "pairwise_observed_agreement": {
+        "coverage__citation": 0.9722,
+        "coverage__strength": 0.9389,
+        "citation__strength": 0.9444
+      },
+      "pairwise_kappa": {
+        "coverage__citation": 0.4347,
+        "coverage__strength": 0.3911,
+        "citation__strength": 0.2718
+      },
+      "mean_pairwise_pearson_r": 0.758,
+      "mean_pairwise_observed_agreement": 0.9518,
+      "mean_pairwise_kappa": 0.3659
+    },
+    "agentic_nopost": {
+      "n": 180,
+      "majority_yes_rate": 0.9389,
+      "majority_no_rate": 0.0,
+      "majority_abstain_rate": 0.0611,
+      "per_judge_yes_rate": {
+        "coverage": 0.9222,
+        "citation": 0.9611,
+        "strength": 0.8944
+      },
+      "pairwise_pearson_r": {
+        "coverage__citation": 0.6758,
+        "coverage__strength": 0.668,
+        "citation__strength": 0.942
+      },
+      "pairwise_observed_agreement": {
+        "coverage__citation": 0.95,
+        "coverage__strength": 0.9222,
+        "citation__strength": 0.9278
+      },
+      "pairwise_kappa": {
+        "coverage__citation": 0.548,
+        "coverage__strength": 0.5352,
+        "citation__strength": 0.4707
+      },
+      "mean_pairwise_pearson_r": 0.7619,
+      "mean_pairwise_observed_agreement": 0.9333,
+      "mean_pairwise_kappa": 0.518
+    },
+    "standard_rag": {
+      "n": 180,
+      "majority_yes_rate": 0.3889,
+      "majority_no_rate": 0.0944,
+      "majority_abstain_rate": 0.5167,
+      "per_judge_yes_rate": {
+        "coverage": 0.3278,
+        "citation": 0.5056,
+        "strength": 0.1611
+      },
+      "pairwise_pearson_r": {
+        "coverage__citation": 0.6644,
+        "coverage__strength": 0.6373,
+        "citation__strength": 0.9351
+      },
+      "pairwise_observed_agreement": {
+        "coverage__citation": 0.6333,
+        "coverage__strength": 0.4722,
+        "citation__strength": 0.5167
+      },
+      "pairwise_kappa": {
+        "coverage__citation": 0.3799,
+        "coverage__strength": 0.0308,
+        "citation__strength": 0.214
+      },
+      "mean_pairwise_pearson_r": 0.7456,
+      "mean_pairwise_observed_agreement": 0.5407,
+      "mean_pairwise_kappa": 0.2082
+    },
+    "llm_only": {
+      "n": 180,
+      "majority_yes_rate": 0.0,
+      "majority_no_rate": 1.0,
+      "majority_abstain_rate": 0.0,
+      "per_judge_yes_rate": {
+        "coverage": 0.0,
+        "citation": 0.0,
+        "strength": 0.0
+      },
+      "pairwise_pearson_r": {
+        "coverage__citation": -0.2818,
+        "coverage__strength": -0.3828,
+        "citation__strength": 0.7592
+      },
+      "pairwise_observed_agreement": {
+        "coverage__citation": 0.9278,
+        "coverage__strength": 1.0,
+        "citation__strength": 0.9278
+      },
+      "pairwise_kappa": {
+        "coverage__citation": 0.0,
+        "coverage__strength": null,
+        "citation__strength": 0.0
+      },
+      "mean_pairwise_pearson_r": 0.0315,
+      "mean_pairwise_observed_agreement": 0.9519,
+      "mean_pairwise_kappa": 0.0
+    }
+  },
+  "judges": [
+    "coverage",
+    "citation",
+    "strength"
+  ],
+  "note": "Three rule-based judges score evidence groundedness on [0,1]; each is the calibrated groundedness signal plus a small systematic bias and a deterministic per-claim perturbation. Inter-rater reliability is the pairwise Pearson r between the three continuous judge scores (primary) plus categorical observed agreement on the thresholded yes|no|abstain votes (secondary). Cohen's kappa is also reported where its marginals are non-degenerate. The categorical majority vote drives majority_yes_rate."
+}

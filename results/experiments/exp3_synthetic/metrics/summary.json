@@ -1,0 +1,182 @@
+{
+  "agentic": {
+    "accuracy": 0.794,
+    "macro_f1": 0.7506,
+    "per_class": {
+      "SUPPORTED": {
+        "precision": 0.8171,
+        "recall": 0.8701,
+        "f1": 0.8428
+      },
+      "REFUTED": {
+        "precision": 0.7792,
+        "recall": 0.8571,
+        "f1": 0.8163
+      },
+      "NEI": {
+        "precision": 0.7619,
+        "recall": 0.4848,
+        "f1": 0.5926
+      }
+    },
+    "confusion_matrix": [
+      [
+        67,
+        8,
+        2
+      ],
+      [
+        7,
+        60,
+        3
+      ],
+      [
+        8,
+        9,
+        16
+      ]
+    ],
+    "labels": [
+      "SUPPORTED",
+      "REFUTED",
+      "NEI"
+    ],
+    "cohens_kappa": 0.667,
+    "n": 180
+  },
+  "agentic_nopost": {
+    "accuracy": 0.733,
+    "macro_f1": 0.683,
+    "per_class": {
+      "SUPPORTED": {
+        "precision": 0.7927,
+        "recall": 0.8125,
+        "f1": 0.8025
+      },
+      "REFUTED": {
+        "precision": 0.6883,
+        "recall": 0.8154,
+        "f1": 0.7465
+      },
+      "NEI": {
+        "precision": 0.6667,
+        "recall": 0.4,
+        "f1": 0.5
+      }
+    },
+    "confusion_matrix": [
+      [
+        65,
+        12,
+        3
+      ],
+      [
+        8,
+        53,
+        4
+      ],
+      [
+        9,
+        12,
+        14
+      ]
+    ],
+    "labels": [
+      "SUPPORTED",
+      "REFUTED",
+      "NEI"
+    ],
+    "cohens_kappa": 0.5701,
+    "n": 180
+  },
+  "standard_rag": {
+    "accuracy": 0.728,
+    "macro_f1": 0.6771,
+    "per_class": {
+      "SUPPORTED": {
+        "precision": 0.7927,
+        "recall": 0.8125,
+        "f1": 0.8025
+      },
+      "REFUTED": {
+        "precision": 0.6753,
+        "recall": 0.8125,
+        "f1": 0.7376
+      },
+      "NEI": {
+        "precision": 0.6667,
+        "recall": 0.3889,
+        "f1": 0.4912
+      }
+    },
+    "confusion_matrix": [
+      [
+        65,
+        12,
+        3
+      ],
+      [
+        8,
+        52,
+        4
+      ],
+      [
+        9,
+        13,
+        14
+      ]
+    ],
+    "labels": [
+      "SUPPORTED",
+      "REFUTED",
+      "NEI"
+    ],
+    "cohens_kappa": 0.5624,
+    "n": 180
+  },
+  "llm_only": {
+    "accuracy": 0.3944,
+    "macro_f1": 0.3823,
+    "per_class": {
+      "SUPPORTED": {
+        "precision": 0.7143,
+        "recall": 0.4878,
+        "f1": 0.5797
+      },
+      "REFUTED": {
+        "precision": 0.7273,
+        "recall": 0.2078,
+        "f1": 0.3232
+      },
+      "NEI": {
+        "precision": 0.1471,
+        "recall": 0.7143,
+        "f1": 0.2439
+      }
+    },
+    "confusion_matrix": [
+      [
+        40,
+        14,
+        2
+      ],
+      [
+        2,
+        16,
+        4
+      ],
+      [
+        40,
+        47,
+        15
+      ]
+    ],
+    "labels": [
+      "SUPPORTED",
+      "REFUTED",
+      "NEI"
+    ],
+    "cohens_kappa": 0.1815,
+    "n": 180
+  }
+}
