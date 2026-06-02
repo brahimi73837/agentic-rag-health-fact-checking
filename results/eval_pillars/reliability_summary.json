@@ -1,0 +1,67 @@
+{
+  "per_experiment": {
+    "exp1_scifact": {
+      "pillar3_judge_pearson": {
+        "agentic": 0.9069,
+        "agentic_multivers": 0.7464,
+        "standard_rag": 0.697,
+        "llm_only": 0.0466
+      },
+      "pillar3_observed_agreement": {
+        "agentic": 0.763,
+        "agentic_multivers": 1.0,
+        "standard_rag": 0.5852,
+        "llm_only": 0.9629
+      },
+      "pillar4_framework_pearson": {
+        "agentic": 0.9791,
+        "agentic_multivers": 0.6961,
+        "standard_rag": 0.9029,
+        "llm_only": 1.0
+      }
+    },
+    "exp2_social_media": {
+      "pillar3_judge_pearson": {
+        "agentic": 0.5762,
+        "standard_rag": 0.6857,
+        "llm_only": -0.0358
+      },
+      "pillar3_observed_agreement": {
+        "agentic": 0.9467,
+        "standard_rag": 0.4933,
+        "llm_only": 0.9733
+      },
+      "pillar4_framework_pearson": {
+        "agentic": 0.8651,
+        "standard_rag": 0.8494,
+        "llm_only": 1.0
+      }
+    },
+    "exp3_synthetic": {
+      "pillar3_judge_pearson": {
+        "agentic": 0.758,
+        "agentic_nopost": 0.7619,
+        "standard_rag": 0.7456,
+        "llm_only": 0.0315
+      },
+      "pillar3_observed_agreement": {
+        "agentic": 0.9518,
+        "agentic_nopost": 0.9333,
+        "standard_rag": 0.5407,
+        "llm_only": 0.9519
+      },
+      "pillar4_framework_pearson": {
+        "agentic": 0.8884,
+        "agentic_nopost": 0.8884,
+        "standard_rag": 0.8912,
+        "llm_only": 1.0
+      }
+    }
+  },
+  "overall_retrieval_systems_only": {
+    "pillar3_mean_judge_pearson_r": 0.7347,
+    "pillar3_mean_observed_agreement": 0.7768,
+    "pillar4_mean_framework_pearson_r": 0.8701
+  },
+  "interpretation": "Headline reliability numbers are averaged over the retrieval-augmented systems (agentic, agentic_multivers, agentic_nopost, standard_rag); llm_only is excluded because it retrieves no evidence, so its judges/frameworks trivially agree on a single category. Pillar 3: pairwise Pearson r between three independent rule-based judges' continuous groundedness scores (primary) plus categorical observed agreement on their thresholded votes (secondary). Pillar 4: pairwise Pearson r between three independent rule-based scoring frameworks on the shared RAG-triad constructs. High values on both indicate the groundedness / faithfulness / relevance constructs are measured reliably (convergent validity), not as artefacts of one scoring rule."
+}
